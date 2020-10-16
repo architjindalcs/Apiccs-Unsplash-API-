@@ -1,0 +1,11 @@
+.c1
+{
+    margin-top: 2rem;
+}
+.c1 img
+{
+    height: 25rem;
+    width: 25rem;
+    border: 1px solid blue;
+    margin-bottom: 2rem;
+}
